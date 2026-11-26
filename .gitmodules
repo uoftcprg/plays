@@ -1,0 +1,9 @@
+[submodule "gtlibrary-java"]
+	path = gtlibrary-java
+	url = https://github.com/aicenter/gtlibrary-java.git
+[submodule "LibratusEndgames"]
+	path = LibratusEndgames
+	url = https://github.com/uoftcprg/LibratusEndgames.git
+[submodule "LiteEFG"]
+	path = LiteEFG
+	url = https://github.com/liumy2010/LiteEFG.git
